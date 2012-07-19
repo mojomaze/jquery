@@ -24,7 +24,7 @@ jQuery.extend({
 
 /**
 	* @author Mark H Winkler
-	* JQuery Cloudmade Open Maps Plugin 
+	* jQuery Cloudmade Open Maps Plugin 
 	* Uses Web Maps API by CoudeMade to access OpenStreetMap
 	* http://cloudmade.com/
 	* http://developers.cloudmade.com/projects/show/web-maps-api
@@ -67,7 +67,7 @@ jQuery.extend({
 		apiKey: '',									// get '/controller/id/edit'
 		apiVersion: '0.3',					// put '/controller/id.js'
 		displayMiles: true					// post '/controller.js'
-	};
+};
 
 	// private functions
 	

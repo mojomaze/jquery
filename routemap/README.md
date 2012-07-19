@@ -1,6 +1,6 @@
 # jquery.routemap.js
 
-## JQuery Cloudmade Open Maps Plugin 
+## jQuery Cloudmade Open Maps Plugin 
 
 Route builder using Web Maps API by CoudeMade to access OpenStreetMap
 
