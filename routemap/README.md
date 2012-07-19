@@ -32,7 +32,7 @@ Route builder using Web Maps API by CoudeMade to access OpenStreetMap
 		<div id="map"></div>
 	</body>
 
-## Setttings
+## Settings
 
 ### controller
 
