@@ -1,0 +1,63 @@
+.routemapbox .routemap-leftnav {
+  float: left;
+  width: 175px;
+}
+
+.routemapbox .routemap-content {
+  float: right;
+}
+
+.routemapbox .routemap-leftnav ul {
+  min-height: 20px;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav-top li {
+  display: inline;
+  margin: 2px;
+  font-size: 1em;
+}
+
+.routemap-name {
+  display: none;
+  font-size: 1.25em;
+  margin-bottom: .75em;
+}
+
+.routemap-name .routemap-notice {
+  display: none;
+  margin-left: 1em;
+}
+
+#routemap_name {
+  margin: 0 1em;
+}
+
+#routemap_map {
+  margin-bottom: 1em;
+}
+
+.routemap-leftnav {
+  padding: 0em 1em .5em .5em;
+}
+.routemap-leftnav ul {
+  padding: 1em !important;
+}
+.routemap-leftnav li.complete-control {
+  margin-top: 1em;
+}
+
+#routemap_message {
+  -moz-box-shadow: 0 0 3px rgba(255, 255, 255, 0.07);
+  -webkit-box-shadow: 0 0 3px rgba(255, 255, 255, 0.07);
+  box-shadow: 0 0 3px rgba(255, 255, 255, 0.07);
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid #121212;
+  background-color: #494949;
+  padding: .5em 1em;
+  text-align: center;
+}
