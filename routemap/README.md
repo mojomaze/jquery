@@ -2,7 +2,7 @@
 
 ## jQuery Cloudmade Open Maps Plugin 
 
-Route builder using Web Maps API by CoudeMade to access OpenStreetMap
+Route builder using Web Maps API by CloudMade to access OpenStreetMap
 
 ### Demo
 	
